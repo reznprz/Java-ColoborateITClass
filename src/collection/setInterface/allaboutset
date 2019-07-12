@@ -1,0 +1,6 @@
+Set Interface
+
+1.Hashset (Faster but not thread safe)
+2. Threeset (provide ascending order of Collection)
+3. LinkedHashSet (Node based performance)
+

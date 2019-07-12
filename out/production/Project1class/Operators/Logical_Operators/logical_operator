@@ -1,0 +1,38 @@
+Logical Operators
+
+Operator    Result
+&            Logical AND
+|            Logical OR
+^            Logical XOR (exclusive OR)
+||            Short-circuit OR
+&&            Short-circuit AND
+!            Logical unary NOT
+&=            AND assignment
+|=            OR assignment
+^=            XOR assignment
+==            Equal to
+!=            Not equal to
+?:            Ternary if-then-else
+
+
+Table
+How value of A and B will convert in to logical operators
+
+   A         B            A | B             A & B             A ^ B              !A
+
+  False     False        False             False             False              True
+
+  True      False        True              False             True               False
+
+  False     True         True              False             True               True
+
+  True      True         True              True              False              False
+
+
+
+Symbol    Long Name
+&    logical AND
+&&    conditional AND
+|    logical OR
+||    conditional OR
+!    logical negation (NOT)

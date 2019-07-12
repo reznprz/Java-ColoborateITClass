@@ -1,0 +1,36 @@
+1. For Loop
+2. For Each Loop
+3. While Loop
+4. Do While Loop
+
+1. For Loop
+
+  for (init variable; boolean expression; update ){
+           statement ;
+  }
+
+  -Step One .. will initialization of variables .
+  -Step Two .. check the boolean condition
+  -step three.. update or increase loop counter
+
+2. For Each loop
+
+   - Only when you want loop an array.
+   for(type if var: name of
+
+
+   3. While loop
+
+   if the boolean .
+
+
+
+   4. Do While loop
+
+   -- this loop will always excecute at least one time.
+   -- Body of code first and than check the condition.
+
+   do{
+
+   }
+   while (boolean expressin is true);
